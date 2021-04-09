@@ -1,5 +1,7 @@
 Clases por ver 
 - [ ] Github 
+- [x] Github 3
+
 # Clase de prueba 
 ## tipo de titulo 2
 ### tipo de titulo 3
@@ -15,4 +17,8 @@ listas
  <!-- este es un comentario -->
 
  # holiwis
-www.tdameritrade.com]
+www.tdameritrade.com
+
+
+# **Actualizacion**
+
